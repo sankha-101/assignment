@@ -10,15 +10,3 @@ This project is a simple FastAPI-based web service that performs addition on lis
 - Logging for debugging and monitoring.
 - Unit tests using `unittest`.
 
-## Project Structure
-│
-├── controller/
-│ └── addition_controller.py
-│
-├── model/
-│ └── addition_model.py
-│
-├── tests/
-│ └── test_main.py
-│
-├── main.py
